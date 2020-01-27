@@ -1,11 +1,7 @@
 # TodoList
 
-[GitHub-pages](https://axesnk.github.io/react-training/)
-
----
-
-1. __git clone https://github.com/AxeSnk/slider__ - клонировать репозитрорий
-2. __npm install__ - установить зависимости
+__git clone https://github.com/AxeSnk/react-training__ - клонировать репозитрорий
+__npm install__ - установить зависимости
 
 ## Доступные сценарии
 
