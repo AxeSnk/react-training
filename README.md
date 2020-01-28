@@ -1,4 +1,6 @@
 # TodoList
+[Demo](https://axesnk.github.io/react-training/build/)
+---
 
 __git clone https://github.com/AxeSnk/react-training__ - клонировать репозитрорий
 __npm install__ - установить зависимости
