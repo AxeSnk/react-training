@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-training/build/static/css/main.13efc9cf.chunk.css",
+    "main.js": "/react-training/build/static/js/main.501d1eb1.chunk.js",
+    "main.js.map": "/react-training/build/static/js/main.501d1eb1.chunk.js.map",
+    "runtime-main.js": "/react-training/build/static/js/runtime-main.96a9187f.js",
+    "runtime-main.js.map": "/react-training/build/static/js/runtime-main.96a9187f.js.map",
+    "static/js/2.f08b355c.chunk.js": "/react-training/build/static/js/2.f08b355c.chunk.js",
+    "static/js/2.f08b355c.chunk.js.map": "/react-training/build/static/js/2.f08b355c.chunk.js.map",
+    "static/js/3.4c4c3b0b.chunk.js": "/react-training/build/static/js/3.4c4c3b0b.chunk.js",
+    "static/js/3.4c4c3b0b.chunk.js.map": "/react-training/build/static/js/3.4c4c3b0b.chunk.js.map",
+    "index.html": "/react-training/build/index.html",
+    "precache-manifest.c0705110196ef43b9538898398877dae.js": "/react-training/build/precache-manifest.c0705110196ef43b9538898398877dae.js",
+    "service-worker.js": "/react-training/build/service-worker.js",
+    "static/css/main.13efc9cf.chunk.css.map": "/react-training/build/static/css/main.13efc9cf.chunk.css.map",
+    "static/js/2.f08b355c.chunk.js.LICENSE": "/react-training/build/static/js/2.f08b355c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96a9187f.js",
+    "static/js/2.f08b355c.chunk.js",
+    "static/css/main.13efc9cf.chunk.css",
+    "static/js/main.501d1eb1.chunk.js"
+  ]
+}
